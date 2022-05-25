@@ -3,8 +3,8 @@
 Esse projeto foi implementado conforme as determinações do Projeto 4 da disciplina de topicos especiais(Apliaões Hibrídas).
 O projeto é um aplicativo simples de acompanhamento dos abastecimentos diários e continuação da ultima aplicação feita em css e html.
 
-![Adicionar abastecimento](./AppCombustivel.PNG = 100x20)
-![Acompanhar abastecimentos](./AppCombustivelAc.PNG = 100x20)
+![Adicionar abastecimento](./AppCombustivel.PNG = 100x)
+![Acompanhar abastecimentos](./AppCombustivelAc.PNG = 100x)
 
 ## Regras da Aplicação
 - Sua aplicação precisa conter pelo menos duas interfaces (telas ou páginas) construídas por meio de componentes React Native;
