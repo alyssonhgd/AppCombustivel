@@ -3,9 +3,11 @@
 Esse projeto foi implementado conforme as determinações do Projeto 4 da disciplina de topicos especiais(Apliaões Hibrídas).
 O projeto é um aplicativo simples de acompanhamento dos abastecimentos diários e continuação da ultima aplicação feita em css e html.
 
-<img src="/AppCombustivel.PNG"  height="100">
+| Add Abastecimento  |  Acompanhar Abastecimentos  |
+| ------------------- | ------------------- |
+|  <img src="/AppCombustivel.PNG"  height="100"> |  <img src="/AppCombustivelAc.PNG" height="100"> |
 
-<img src="/AppCombustivelAc.PNG" height="100">
+
 
 
 ## Regras da Aplicação
