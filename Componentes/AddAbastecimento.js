@@ -72,7 +72,7 @@ export default function AddAbastecimento() {
     async function RecuperaDadosStorage() {
         try {
             const lista = await AsyncStorage.getItem("ListaAbastecimento");
-            if (lista !== null) setTarefas(JSON.parse(lista));
+            if (lista !== null) setLista(JSON.parse(lista));
         } catch (error) {
             
         }

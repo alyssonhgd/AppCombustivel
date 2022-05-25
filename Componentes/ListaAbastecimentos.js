@@ -95,7 +95,7 @@ function litragemTotal(){
     const[total,setTotal] =useState(0);
 
     ListaAbastecimento.map((quantidadeAbastecida)=>{
-        setTotal(total + Float.parse(quantidadeAbastecida));
+        setTotal(total + (parseFloat(quantidadeAbastecida)));
         Console.log({total});
     });
     return(
