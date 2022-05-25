@@ -11,9 +11,11 @@ import ListaAbastecimentos from './Componentes/ListaAbastecimentos'
 
 const Stack = createNativeStackNavigator();
 
-export default function App() {
+//Componente principal contendo um navigator container, com 2 rotas, adicionar abastecimento e listar abastecimento
 
+export default function App() {
     return (
+    
       <NavigationContainer>
       <Stack.Navigator initialRouteName="AddAbastecimento">
           <Stack.Screen name="AddAbastecimento" 
@@ -24,7 +26,6 @@ export default function App() {
           headerTitleAlign:'center',
           headerTintColor:'white'}
         }/>
-
           <Stack.Screen name="ListaAbastecimento" 
           component={ListaAbastecimentos} 
           options={{ 
@@ -40,7 +41,9 @@ export default function App() {
       
      
       </NavigationContainer>
+      
     );
+    
     function LogoApp() {
       return (
         <Image
