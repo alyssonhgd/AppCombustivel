@@ -4,9 +4,9 @@ Esse projeto foi implementado conforme as determinações do Projeto 4 da discip
 O projeto é um aplicativo simples de acompanhamento dos abastecimentos diários e continuação da ultima aplicação feita em css e html.
 
 <img src="/AppCombustivel.PNG" width="100">
-![Adicionar abastecimento](./AppCombustivel.PNG = 100x)
+![Adicionar abastecimento]
 <img src="/AppCombustivelAc.PNG" width="100">
-![Acompanhar abastecimentos](./AppCombustivelAc.PNG = 100x)
+![Acompanhar abastecimentos]
 
 ## Regras da Aplicação
 - Sua aplicação precisa conter pelo menos duas interfaces (telas ou páginas) construídas por meio de componentes React Native;
